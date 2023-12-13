@@ -8,7 +8,8 @@ get_header();
 <div class="container">
     <div class="row">
         <div class="col-md-12">
-            <h1>Home Page</h1>
+            <h2>Home Page</h2>
+            <h1>Testing Lint - lets see...</h1>
         </div>
     </div>
 
