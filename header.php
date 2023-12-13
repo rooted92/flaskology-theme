@@ -9,6 +9,6 @@
     
 <header>
     <nav>
-        Navigation
+        <h6>Navigation</h6>
     </nav>
 </header>
